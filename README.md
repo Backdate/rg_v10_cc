@@ -26,7 +26,7 @@ Roboguide v10 public repo of compressed cells.
 - ### Domino
     - ![alt text](assets/Physics1RG_RevF_Domino1.gif)
     - simple cell using "roboguide physics" introduced in RG V10 rev.F
-    - [Slide](domino_physics.rgzip)
+    - [Domino](domino_physics.rgzip)
 
 ## todo
 - refactor and restructure repo.
