@@ -1,5 +1,7 @@
 # rg_v10_cc
-roboguide v10 public repo of compressed cells or cell-folders that can can be compressed as ".rgzip"
+Roboguide v10 public repo of compressed cells.
+
+(or cell-folders that can can be compressed as ".rgzip")
 
 ![alt text](assets/anim_shadow.gif)
 
@@ -20,6 +22,11 @@ roboguide v10 public repo of compressed cells or cell-folders that can can be co
     - ![alt text](assets/Physics1RG_RevF_Slide.gif)
     - simple cell using "roboguide physics" introduced in RG V10 rev.F
     - [Slide](slide_physics.rgzip)
+
+- ### Domino
+    - ![alt text](assets/Physics1RG_RevF_Domino1.gif)
+    - simple cell using "roboguide physics" introduced in RG V10 rev.F
+    - [Slide](domino_physics.rgzip)
 
 ## todo
 - refactor and restructure repo.
